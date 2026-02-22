@@ -1,7 +1,7 @@
 # retail-sales-analysis
 # 📌 Project Overview
 
-This project analyzes raw retail sales data to uncover key business insights related to: \n
+This project analyzes raw retail sales data to uncover key business insights related to:  
 Revenue trends over time\n
 Top-selling products
 High-performing countries/regions
