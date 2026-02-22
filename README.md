@@ -126,6 +126,10 @@ Report Writing
 ✔ Entry-Level Data Analyst Practice  
 ✔ Business Intelligence Simulation  
 
+
+# Data (kagle)
+link:https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
 # 👨‍💻 Author
 pranay wadhai  
 Data Analyst | Python | Business Intelligence
